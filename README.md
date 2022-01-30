@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics and data science with Python
 - 💞️ I’m looking to collaborate on data analytics, product analytics, data science
-- 📫 How to reach me iconic-skews0c@icloud.com
+- 📫 Reach me on https://abrahamsetiawan.com
 
 <!---
 abrahamzetz/abrahamzetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
