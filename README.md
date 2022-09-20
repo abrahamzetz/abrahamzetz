@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrahamzetz
-- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics and data science with Python
+- 🚙 I'm doing my internship as a Data Analyst in a car company
 - 💞️ I’m looking to collaborate on data analytics, product analytics, data science
 - 📫 Reach me on https://abrahamsetiawan.com
 
