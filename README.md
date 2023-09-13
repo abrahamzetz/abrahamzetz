@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abrahamzetz
-- 💼 I'm working as a Data Analyst, soon starting a new role as a Data Engineer
+- 💼 I'm working as a Data Engineer
 - 📫 Reach me on https://abrahamsetiawan.com
 
 <!---
