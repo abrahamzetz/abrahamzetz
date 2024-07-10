@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abrahamzetz
-- 💼 I'm working as a Data Engineer
+- 💼 I'm working as a Data Engineering Consultant at Solita
 - 📫 Reach me on https://abrahamsetiawan.com
 
 <!---
