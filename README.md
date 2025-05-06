@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @abrahamzetz
-- 💼 I'm working as a Analytics Engineering at Rebtel
+- 👋 Hi, I’m Abraham Setiawan (@abrahamzetz)
+- 🌏 Originally from Bali 🇮🇩 but now I have made Stockholm 🇸🇪 my home
+- 💼 I work as an Analytics Engineering at Rebtel
+- 😎 When not working, I like to play bass 🎶, scuba dive 🤿, play boardgames 🎲, and play video games 🎮
+- 🧘 Not really big on working out, but I do a bit of yoga and breathing exercises just to keep myself sane
 - 📫 Reach me on https://abrahamsetiawan.com
 
 <!---
