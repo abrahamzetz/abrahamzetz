@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abraham Setiawan (@abrahamzetz)
 - 🌏 Originally from Bali 🇮🇩 but now I have made Stockholm 🇸🇪 my home
-- 💼 I work as a Senior Analytics Engineering at Alva Labs (work account @abraham-alva)
+- 💼 I work as a Senior Analytics Engineering at Alva Labs (work account <a href='https://github.com/abraham-alva' target='_blank'>@abraham-alva</a>)
 - 💻 My current tech stack: dbt, BigQuery, Lightdash, GCP, Terraform, dlt.
 - 👾 Other tech I'm comfortable in: Snowflake, Looker, Tableau, PowerBI, AWS, Azure.
 - 😎 When not working, I like to play bass 🎶, scuba dive 🤿, play boardgames 🎲, and play video games 🎮
